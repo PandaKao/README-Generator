@@ -41,7 +41,7 @@ const questions = [
         choices: [
             'GNU Affero General 3.0', 'GNU General 3.0',
             'GNU Lesser General 3.0', 'Mozilla 2.0',
-            'Apache 2.0',  'MIT', 'Boost Software 1.0', 'The Unlicense'             
+            'Apache 2.0',  'MIT', 'Boost Software 1.0', 'The Unlicense', 'none'             
         ],
         name: 'license',
     },
